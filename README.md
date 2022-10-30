@@ -1,7 +1,7 @@
 # ImageProcessing
 	This repo was created to save weekly tasks of course called Image Processing at Karabuk University.
 	Naming Format -> FF-LL_Month : F and L's represents numbers of first and last days of the week. 
-	Each task is listed with their descriptions down below.
+	Each task is listed briefly down below.
 
 ## 24-30_October
 	Title: Basic image features and some techniques.
