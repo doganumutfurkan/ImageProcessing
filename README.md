@@ -4,9 +4,9 @@
 	Each task is listed briefly down below.
 
 ## 31-06_November
-	Title: 
-	Content: 
-	Keywords:
+	Title: Histogram and some basic basic conversion functions
+	Content: Checking image's contrast and equalizing it.
+	Keywords: .equalizeHist, .hstack, .flatten, .max
 
 ## 24-30_October
 	Title: Basic image features and some techniques.
